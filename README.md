@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pinimg.com" width="560" alt="Day by Day Cozy Pink Room">
+  <img src="picture.gif" width="560" alt="Day by Day Cozy Pink Room">
 
   # Hello, World! 👋
   
